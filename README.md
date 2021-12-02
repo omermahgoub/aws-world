@@ -6,5 +6,14 @@ I've being dealing with the cloud for almost 10 years by now (December 2021), I 
 ##Table of content
 
 ###AWS Certifications
+A curated list of AWS certification materials: videos courses, practice exams, prep tips, etc.
+
+[AWS Certifications - Official Page](https://aws.amazon.com/certification/)
+
+[AWS Certification exam preparation](https://aws.amazon.com/certification/certification-prep/)
+
+[AWS  Training and Certification](https://aws.amazon.com/training/)
+
+
 
 ###AWS Blogs
