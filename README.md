@@ -14,6 +14,6 @@ A curated list of AWS certification materials: videos courses, practice exams, p
 
 * [AWS  Training and Certification](https://aws.amazon.com/training/)
 
-* [AWS Certified Cloud Practitioner][]
+* [AWS Certified Cloud Practitioner][CLF-C01/README.md]
 
 ### AWS Blogs
